@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **data science and trying to learn about**
 
-- 👯 I’m looking to collaborate on **collaborate on open source projects on ML/DL/NLP**
+- 👯 I’m looking to collaborate on **open source projects on ML/DL/NLP**
 
 - 💬 Ask me about **cool data science problems, fascinating ML concepts and sanrio.**
 
