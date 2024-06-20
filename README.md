@@ -1,17 +1,15 @@
 <h1 align="center">Hi! This is deetsy</h1>
-<h3 align="center">i like to scribble and draw.</h3>
+<h3 align="center">an itsy-bitsy creature crawling here & there. Thanks for visiting !!.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepshikha2003&label=Profile%20views&color=0e75b6&style=flat" alt="deepshikha2003" /> </p>
 
-- 🔭 I’m currently working on **machine learning projects along with a bit of backend development**
+- 🔭 I’m currently working on **my own projects along with exploring a bit of backend development**
 
-- 🌱 I’m currently learning **data science and trying to learn about**
+- 👯 I’m looking to collaborate on **projects on ML/DL**
 
-- 👯 I’m looking to collaborate on **open source projects on ML/DL/NLP**
+- 💬 Ask me about **coffee, cats and sanrio.**
 
-- 💬 Ask me about **cool data science problems, fascinating ML concepts and sanrio.**
-
-- ⚡ Fun fact **cats love me <3**
+- ⚡ Fun fact **I can draw.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
